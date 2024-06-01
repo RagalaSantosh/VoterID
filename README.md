@@ -15,6 +15,9 @@ Install the required dependencies:
 pip install opencv-python-headless pytesseract
 
 
+download the Tesseract folder and keep it in Requirements folder
+
+
 **Clone this repository:**
 git clone https://github.com/RagalaSantosh/VoterID
 
